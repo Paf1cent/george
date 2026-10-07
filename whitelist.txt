@@ -1,8 +1,3 @@
 # jeode-whitelist v1
 # mac=3291168b2fb6d5e9c058c452afe0b6ac95648417099bdd4496abfce1f581a2d8
-#
-#
-# ./dist/tools/jeode-whitelist -add token ./whitelist.txt
-# ./dist/tools/jeode-whitelist -sign ./whitelist.txt
-#
 paficent_mac|s:5e063d4df2c1307e|s:489bdd219e44bb64|s:37cf2b49b21cf8f6|s:ee5a34a1b6255b82|s:b062ac9ea3f22f43|s:ec4ce92c19e23221|s:99a5e4d3944a5037|s:8573cb5bca493813
